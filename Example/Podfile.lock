@@ -1,0 +1,16 @@
+PODS:
+  - InputValidator (0.1.0)
+
+DEPENDENCIES:
+  - InputValidator (from `../`)
+
+EXTERNAL SOURCES:
+  InputValidator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  InputValidator: c3c4ace96df6154880872c07df6c26b1636dc282
+
+PODFILE CHECKSUM: 2d799a9ce035add32feb866edd733107ee5b04f4
+
+COCOAPODS: 1.5.3

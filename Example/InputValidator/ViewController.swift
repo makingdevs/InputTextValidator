@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import InputValidator
 
 class ViewController: UIViewController {
 
