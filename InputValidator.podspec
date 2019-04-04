@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'InputValidator'
+  s.name             = 'InputTextValidator'
   s.version          = '0.1.0'
   s.summary          = 'Library to make validations of the input in some text components.'
 
