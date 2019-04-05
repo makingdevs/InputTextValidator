@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint InputValidator.podspec' to ensure this is a
+# Be sure to run `pod lib lint InputTextValidator.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 Use this libary to encapsulate text input compoenents validations and execute all these with one call
                        DESC
 
-  s.homepage         = 'https://github.com/makingdevs/InputValidator'
+  s.homepage         = 'https://github.com/makingdevs/InputTextValidator'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'marcoreyesc' => 'antonio@makingdevs.com' }
-  s.source           = { :git => 'https://github.com/makingdevs/InputValidator.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/makingdevs/InputTextValidator.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/makingdevs'
 
   s.ios.deployment_target = '8.0'

@@ -1,9 +1,9 @@
-# InputValidator
+# InputTextValidator
 
-[![CI Status](https://img.shields.io/travis/marcoreyesc/InputValidator.svg?style=flat)](https://travis-ci.org/marcoreyesc/InputValidator)
-[![Version](https://img.shields.io/cocoapods/v/InputValidator.svg?style=flat)](https://cocoapods.org/pods/InputValidator)
-[![License](https://img.shields.io/cocoapods/l/InputValidator.svg?style=flat)](https://cocoapods.org/pods/InputValidator)
-[![Platform](https://img.shields.io/cocoapods/p/InputValidator.svg?style=flat)](https://cocoapods.org/pods/InputValidator)
+[![CI Status](https://img.shields.io/travis/marcoreyesc/InputTextValidator.svg?style=flat)](https://travis-ci.org/marcoreyesc/InputTextValidator)
+[![Version](https://img.shields.io/cocoapods/v/InputTextValidator.svg?style=flat)](https://cocoapods.org/pods/InputTextValidator)
+[![License](https://img.shields.io/cocoapods/l/InputTextValidator.svg?style=flat)](https://cocoapods.org/pods/InputTextValidator)
+[![Platform](https://img.shields.io/cocoapods/p/InputTextValidator.svg?style=flat)](https://cocoapods.org/pods/InputTextValidator)
 
 ## Example
 
@@ -13,11 +13,11 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-InputValidator is available through [CocoaPods](https://cocoapods.org). To install
+InputTextValidator is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'InputValidator'
+pod 'InputTextValidator'
 ```
 
 ## Author
@@ -26,4 +26,4 @@ marcoreyesc, antonio@makingdevs.com
 
 ## License
 
-InputValidator is available under the MIT license. See the LICENSE file for more info.
+InputTextValidator is available under the MIT license. See the LICENSE file for more info.
