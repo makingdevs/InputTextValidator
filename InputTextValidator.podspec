@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'InputTextValidator'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'Library to make validations of the input in some text components.'
 
 # This description is used to generate tags and improve search results.
