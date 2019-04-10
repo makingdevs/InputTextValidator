@@ -30,7 +30,7 @@ Use this libary to encapsulate text input compoenents validations and execute al
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'InputValidator/Classes/**/*'
+  s.source_files = '*.swift'
   
   # s.resource_bundles = {
   #   'InputValidator' => ['InputValidator/Assets/*.png']
@@ -39,5 +39,5 @@ Use this libary to encapsulate text input compoenents validations and execute al
   # s.public_header_files = 'Pod/Classes/**/*.h'
   s.frameworks = 'UIKit'
   # s.dependency 'AFNetworking', '~> 2.3'
-  s.swift_version = '4.0'
+  s.swift_version = '4.2'
 end
