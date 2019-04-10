@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'InputTextValidator_Example' do
+  pod 'InputTextValidator', :path => '../'
+
+  target 'InputTextValidator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
