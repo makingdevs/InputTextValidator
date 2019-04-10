@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import SystemConfiguration
 
 public class InputValidator {
 

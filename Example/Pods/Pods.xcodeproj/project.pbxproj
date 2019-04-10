@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0E1233B040E7A9F0E079EDED937A6E2D /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = B03E2E8A7328B75B717588DA0C2CE571 /* ReplaceMe.swift */; };
 		13FF4E70C0C46407D3E5DC84DC598C02 /* InputValidator-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = EE8FEAB5D0A056A7ADE9BF9FB4045FB5 /* InputValidator-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5065348C89895CC4A828AFFF94D5241A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
 		770E03B2CF9CBFA7E8AC848B678B1251 /* Pods-InputValidator_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9AB84D28A883F900E6BA5B5A8BA2C163 /* Pods-InputValidator_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -65,7 +64,6 @@
 		A9536EF5225586B500744388 /* StringExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringExtension.swift; sourceTree = "<group>"; };
 		AA243AC77DE5AD809735701366AA236E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		AB1E7ED1B420879CB39E33B3EEC343A9 /* Pods-InputValidator_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-InputValidator_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		B03E2E8A7328B75B717588DA0C2CE571 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = InputValidator/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
 		B0B7A4653AE953BBDC45E8E5C769AA0D /* Pods-InputValidator_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-InputValidator_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		B1DD4410BE9AEEF2E8B7C2363D08802D /* Pods_InputValidator_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_InputValidator_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B52CF2B79FB505F86FC9988D9E63CD56 /* Pods-InputValidator_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-InputValidator_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -166,7 +164,6 @@
 			children = (
 				A9536EF4225586B500744388 /* InputValidator.swift */,
 				A9536EF5225586B500744388 /* StringExtension.swift */,
-				B03E2E8A7328B75B717588DA0C2CE571 /* ReplaceMe.swift */,
 				4F263B5B2F8C6A4E15C19B840922E584 /* Pod */,
 				87DE08804272DA5DDFD8B13F54C9EFA6 /* Support Files */,
 			);
@@ -395,7 +392,6 @@
 				A9536EF7225586B500744388 /* StringExtension.swift in Sources */,
 				8BD60BF03F7F82532FF0AFA082894CA5 /* InputValidator-dummy.m in Sources */,
 				A9536EF6225586B500744388 /* InputValidator.swift in Sources */,
-				0E1233B040E7A9F0E079EDED937A6E2D /* ReplaceMe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
