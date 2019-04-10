@@ -1,0 +1,6 @@
+framework module InputTextValidator {
+  umbrella header "InputTextValidator-umbrella.h"
+
+  export *
+  module * { export * }
+}
