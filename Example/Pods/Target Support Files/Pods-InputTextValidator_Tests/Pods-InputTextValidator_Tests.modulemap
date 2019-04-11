@@ -1,6 +1,0 @@
-framework module Pods_InputTextValidator_Tests {
-  umbrella header "Pods-InputTextValidator_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}
